@@ -1,4 +1,4 @@
-## Data Wrangling - WeRateDogs&trade;
+## Data Wrangling - WeRateDogs&trade; Twitter Archive
 
 ***Introduction***
 
@@ -19,3 +19,6 @@ We will be using the ***twitter archieved dataset of WeRateDogs&trade;*** for th
 1. `twitter-archive-enhanced.csv`
 2. `image-predictions.tsv`
 3. `tweet_json.txt`
+
+**Analysis and Visualization**
+- We shall apply the EDA steps to find interesting patterns and share the findings respectively.
